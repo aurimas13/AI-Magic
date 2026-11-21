@@ -49,7 +49,7 @@ those fails, the lesson is not ready.
 
 <br>
 
-- **A curated, timestamped reading and watching list** of current AI, in the Worthy tables. Steal it; that is what MIT is for.
+- **A curated, timestamped reading and watching list** of current AI, growing day by day in the Worthy tables. Steal it; that is what MIT is for.
 - **Explain-like-I'm-5 visuals** you can reuse in a talk, a team wiki or a lesson, one per day, in [assets/cards/](assets/cards/).
 - **A visual glossary** of the vocabulary of modern AI engineering, in plain words, in [Visual Glossary](#visual-glossary).
 - **A working template** if you want to run your own open-ended learning log.
@@ -97,59 +97,34 @@ the words explained simply and something to try); **Timestamp** jumps straight t
 
 [(Back to top)](#table-of-contents)
 
-Talks and videos that the lessons come from. Each one is broken into many separate lessons, spread across the
-calendar so consecutive days come from different speakers.
+Talks and videos that the lessons come from, each added on the day its first lesson is shared. One talk is
+broken into many separate lessons, spread across the calendar so consecutive days come from different speakers.
 
-| **Number** | **Title** | **Description** | **Lessons** | **Link** |
-|---|---|---|---|---|
-| 1 | Rethinking Claude Code Best Practices — Lydia Hallie, Anthropic | How the human steps out of the loop: model steers, auto mode approves, harness and environment enforce | 14 lessons, from Day 1 | [Watch](https://www.youtube.com/watch?v=vlfCjWuv4es) |
-| 2 | All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI | Turn every agent correction into a deterministic check so the codebase teaches good habits | 13 lessons, from Day 4 | [Watch](https://www.youtube.com/watch?v=O_zcc6Xl12g) |
-| 3 | The Sweet Side of the Bitter Lesson — Thariq Shihipar, Independent | Models can work the way we want; keep a human-readable layer you actually understand | 11 lessons, from Day 13 | [Watch](https://www.youtube.com/watch?v=xRJMiaUoD_8) |
-| 4 | What It Actually Takes to Build a Software Factory — Tereza Tížková, Factory | The whole software life cycle with autonomy: orchestrator, workers, validators, routing | 14 lessons, from Day 6 | [Watch](https://www.youtube.com/watch?v=vGCJ7diEtrw) |
-| 5 | Is the Agent Harness Dead? — Jediah Katz, SpaceXAI | Why smarter models absorb harness tricks, and what the harness still owns | 13 lessons, from Day 7 | [Watch](https://www.youtube.com/watch?v=7Y4sbZgBdnc) |
-| 6 | "Where is all the automation?" — Diogo Almeida, TypeSafe AI | Assistance versus automation, and why doing the right task beats bigger models | 13 lessons, from Day 12 | [Watch](https://www.youtube.com/watch?v=Cyt3LU8TyNc) |
-| 7 | Make Your AI Agents Predictable With Graph Engineering - Zachary Blumenfeld, Neo4j | Design agent work as explicit graphs, and compile skills into graphs | 11 lessons, from Day 14 | [Watch](https://www.youtube.com/watch?v=g_NgCLTibiM) |
-| 8 | AI Writes the Code. So What's Left for Engineers? - Laurie Voss, Arize AI | The bottleneck keeps moving; what stays human is deciding what good means | 15 lessons, from Day 2 | [Watch](https://www.youtube.com/watch?v=kspZP5BgkEU) |
-| 9 | Your AI Agent Is Hiding Its Mistakes From You - Ben Holmes, Warp | Grade past agent conversations with rubrics and let agents improve their own setup | 12 lessons, from Day 9 | [Watch](https://www.youtube.com/watch?v=pz74r-4dGfQ) |
-| 10 | Your Old Prompts Are Making Claude Worse - Lance Martin, Anthropic | Prompt audits, prompt caching, eval design, hill climbing and effort levels | 15 lessons, from Day 5 | [Watch](https://www.youtube.com/watch?v=ys6YQ2yfBpM) |
-| 11 | How to Build a Software Factory That Improves Itself - Zach Lloyd, Warp | A software factory defined in code, measured on your own data | 12 lessons, from Day 11 | [Watch](https://www.youtube.com/watch?v=nKjPBAw_N_0) |
-| 12 | Sandboxes Aren't Optional: 4 Ways to Isolate Coding Agents — Robert Brennan, OpenHands | Least privilege for agents, from Docker to Kubernetes | 12 lessons, from Day 8 | [Watch](https://www.youtube.com/watch?v=iH_wV8BbS24) |
-| 13 | Fixing the PR Bottleneck — Matt Pocock, AIHero | Accelerators and brakes: checks, automated review and human review | 14 lessons, from Day 10 | [Watch](https://www.youtube.com/watch?v=LlgiOCmFG_w) |
-| 14 | What AI Coding Leaders Do Differently - Martin Harrysson, Shilpa Khatana & Prakhar Dixit, McKinsey | Smaller pods, faster loops, and where the bottleneck goes next | 11 lessons, from Day 15 | [Watch](https://www.youtube.com/watch?v=21tuT-e4NVo) |
-| 15 | "Software Fundamentals Matter More Than Ever" — Matt Pocock | Old software books, new agent problems: shared design, shared language, deep modules | 14 lessons, from Day 3 | [Watch](https://www.youtube.com/watch?v=v4F1gFy-hqg) |
-| 16 | How One Founder Manages 20 AI Coding Agents at Once - Ryan Carson, Untangle | A manager agent, twenty builders, and hiring by screen recording | 12 lessons, from Day 16 | [Watch](https://www.youtube.com/watch?v=BTtyguoPvBU) |
+<sub><i>Empty until its first source is shared. Filling begins on 23 November 2026.</i></sub>
 
 # Worthy Posts and Articles
 
 [(Back to top)](#table-of-contents)
 
-Blog posts, threads and essays used as sources. The first entries arrive as they are shared.
+Blog posts, threads and essays used as sources, each added on the day it is shared.
 
-| **Number** | **Title** | **Description** | **Link** |
-|---|---|---|---|
-
+<sub><i>Empty until its first source is shared. Filling begins on 23 November 2026.</i></sub>
 
 # Worthy Publications
 
 [(Back to top)](#table-of-contents)
 
-Papers and technical reports used as sources. The first entries arrive as they are shared.
+Papers and technical reports used as sources, each added on the day it is shared.
 
-| **Number** | **Title** | **Description** | **Link** |
-|---|---|---|---|
-
+<sub><i>Empty until its first source is shared. Filling begins on 23 November 2026.</i></sub>
 
 # Worthy Repositories and Tools
 
 [(Back to top)](#table-of-contents)
 
-Repositories and tools named in the sources, linked only once they are verified to exist.
+Repositories and tools used as sources, each added on the day it is shared.
 
-| **Number** | **Title** | **Description** | **Link** |
-|---|---|---|---|
-| 1 | Matt Pocock's skills | Agent skills referenced in both of Matt Pocock's talks (grill-me, TDD, codebase design, code review and more) | [Matt Pocock's skills](https://github.com/mattpocock/skills) |
-| 2 | OpenHands | Open-source coding-agent platform from Robert Brennan's talk | [OpenHands](https://github.com/OpenHands/OpenHands) |
-
+<sub><i>Empty until its first source is shared. Filling begins on 23 November 2026.</i></sub>
 
 # Visual Glossary
 
@@ -183,7 +158,7 @@ The best suggestions are recent, specific, and have one idea that can be drawn.
 I build this project **with AI, in the open**. I collaborate with **[Claude Code](https://claude.com/claude-code)**
 on this repository and on every post that points at it. Claude Code assists with the research, the drafting,
 the visuals (the day cards) and the editing before anything ships. I remain human in the loop throughout.
-Nothing goes out until I have done the final edit and review and agreed to publish it.
+Nothing goes out until I have done the final edit and review, agree to publish it.
 
 > I affirm that all AI-generated and co-created content underwent thorough review and evaluation. The final output accurately reflects my understanding, expertise, and intended meaning. While AI assistance was instrumental in the process, I maintain full responsibility for the content, its accuracy, and its presentation. This disclosure is made in the spirit of transparency and to acknowledge the role of AI in the creation process.
 
@@ -218,8 +193,10 @@ every badge and every day card.
 
 [(Back to top)](#table-of-contents)
 
+- Portfolio: [aurimas.io](https://www.aurimas.io)
 - X: [@reksas13](https://x.com/reksas13)
 - Bluesky: [@reksas13.bsky.social](https://bsky.app/profile/reksas13.bsky.social)
+- Threads: [@reksas13](https://www.threads.com/@reksas13)
 - LinkedIn: [Aurimas Nausėdas](https://www.linkedin.com/in/aurimasnausedas/)
 - Newsletter: [Molecule To Machine](https://moleculetomachine.substack.com)
 

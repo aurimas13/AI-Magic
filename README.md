@@ -2,12 +2,14 @@
   <img height="420px" src="assets/logo/ai-magic.png" alt="AI Magic - learn AI through visuals"/>
 </p>
 
-<p align="center"><b>AI Magic</b>: one lesson a day on <b>current AI and ML</b>, drawn as a picture and explained <b>like you are five</b>.</p>
+<p align="center"><b>AI Magic</b>: one lesson a day on <b>current AI and ML</b>, drawn as a picture and explained <b>to you like you are five</b>.</p>
+
+<p align="center"><img src="assets/logo/stripe.svg" width="360" alt="Yellow, green and red stripe of the Lithuanian flag"/></p>
 
 <p align="center">
-<a href="#daily-magic"><img alt="day" src="https://img.shields.io/badge/Day%201-23%20Nov%202026-7C3AED?style=for-the-badge&labelColor=1B1035"/></a>
-<a href="#how-it-works"><img alt="cadence" src="https://img.shields.io/badge/Cadence-daily%2006%3A50%20EET-E0338A?style=for-the-badge&labelColor=1B1035"/></a>
-<a href="#visual-glossary"><img alt="eli5" src="https://img.shields.io/badge/Style-ELI5%20visuals-F2A900?style=for-the-badge&labelColor=1B1035"/></a>
+<a href="#daily-magic"><img alt="day" src="https://img.shields.io/badge/Day%201-23%20Nov%202026-006A44?style=for-the-badge&labelColor=00402A"/></a>
+<a href="#how-it-works"><img alt="cadence" src="https://img.shields.io/badge/Cadence-daily%2006%3A50%20EET-C1272D?style=for-the-badge&labelColor=00402A"/></a>
+<a href="#visual-glossary"><img alt="eli5" src="https://img.shields.io/badge/Style-ELI5%20visuals-FDB913?style=for-the-badge&labelColor=00402A"/></a>
 </p>
 <p align="center">
 <a href="https://github.com/aurimas13/AI-Magic/commits/main"><img alt="last commit" src="https://img.shields.io/github/last-commit/aurimas13/AI-Magic?style=social"/></a>
@@ -126,6 +128,7 @@ Blog posts, threads and essays used as sources. The first entries arrive as they
 | **Number** | **Title** | **Description** | **Link** |
 |---|---|---|---|
 
+
 # Worthy Publications
 
 [(Back to top)](#table-of-contents)
@@ -134,6 +137,7 @@ Papers and technical reports used as sources. The first entries arrive as they a
 
 | **Number** | **Title** | **Description** | **Link** |
 |---|---|---|---|
+
 
 # Worthy Repositories and Tools
 
@@ -145,6 +149,7 @@ Repositories and tools named in the sources, linked only once they are verified 
 |---|---|---|---|
 | 1 | Matt Pocock's skills | Agent skills referenced in both of Matt Pocock's talks (grill-me, TDD, codebase design, code review and more) | [Matt Pocock's skills](https://github.com/mattpocock/skills) |
 | 2 | OpenHands | Open-source coding-agent platform from Robert Brennan's talk | [OpenHands](https://github.com/OpenHands/OpenHands) |
+
 
 # Visual Glossary
 
@@ -205,7 +210,9 @@ Nothing goes out until I have done the final edit and review and agreed to publi
 
 The logo can be found [here](assets/logo/ai-magic.png) ([SVG](assets/logo/ai-magic.svg)). It follows the circular
 icon layout of the Machine-Learning-Goodness logo: line icons of AI (a neural network, a chip, a robot, a brain)
-mixed with icons of magic (a wand, a crystal ball, a wizard hat, a spell book), in violet and gold.
+mixed with icons of magic (a wand, a crystal ball, a wizard hat, a spell book), in the colours of the
+Lithuanian flag: yellow (#FDB913), green (#006A44) and red (#C1272D). The same three colours run through
+every badge and every day card.
 
 # Connect
 

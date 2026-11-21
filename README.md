@@ -158,7 +158,7 @@ The best suggestions are recent, specific, and have one idea that can be drawn.
 I build this project **with AI, in the open**. I collaborate with **[Claude Code](https://claude.com/claude-code)**
 on this repository and on every post that points at it. Claude Code assists with the research, the drafting,
 the visuals (the day cards) and the editing before anything ships. I remain human in the loop throughout.
-Nothing goes out until I have done the final edit and review, agree to publish it.
+Nothing goes out until I have done the final edit, review and agree to publish it.
 
 > I affirm that all AI-generated and co-created content underwent thorough review and evaluation. The final output accurately reflects my understanding, expertise, and intended meaning. While AI assistance was instrumental in the process, I maintain full responsibility for the content, its accuracy, and its presentation. This disclosure is made in the spirit of transparency and to acknowledge the role of AI in the creation process.
 

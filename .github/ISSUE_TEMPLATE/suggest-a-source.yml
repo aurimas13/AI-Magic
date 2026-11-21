@@ -1,0 +1,25 @@
+name: Suggest a source
+description: A talk, post, article, paper or repository that deserves an AI Magic lesson
+title: "[Source] "
+labels: ["source suggestion"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Link
+      description: The video, post, article, paper or repository.
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: The one idea worth drawing
+      description: What should someone understand after the picture? Add a timestamp or section if you have one.
+    validations:
+      required: true
+  - type: dropdown
+    id: level
+    attributes:
+      label: Level
+      options: ["Medium", "Advanced"]

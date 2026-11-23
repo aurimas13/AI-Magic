@@ -7,7 +7,7 @@
 <p align="center"><img src="assets/logo/stripe.svg" width="360" alt="Yellow, green and red stripe of the Lithuanian flag"/></p>
 
 <p align="center">
-<a href="#daily-magic"><img alt="day" src="https://img.shields.io/badge/Day%201-23%20Nov%202026-006A44?style=for-the-badge&labelColor=00402A"/></a>
+<a href="#daily-magic"><img alt="day" src="https://img.shields.io/badge/Day-1%20-%20no%20end-006A44?style=for-the-badge&labelColor=00402A"/></a>
 <a href="#how-it-works"><img alt="cadence" src="https://img.shields.io/badge/Cadence-daily%2006%3A50%20EET-C1272D?style=for-the-badge&labelColor=00402A"/></a>
 <a href="#visual-glossary"><img alt="eli5" src="https://img.shields.io/badge/Style-ELI5%20visuals-FDB913?style=for-the-badge&labelColor=00402A"/></a>
 </p>
@@ -91,7 +91,9 @@ which ran from 12 July to 19 October 2026. The numbered resource tables and the 
 One row per day, newest at the bottom. **Lesson** opens the day note (the card, the timestamps, the takeaways,
 the words explained simply and something to try); **Timestamp** jumps straight to the moment in the source.
 
-<p align="center"><i>Day 1 lands on <b>23 November 2026</b> at 06:50 EET. Watch or star the repo to see it arrive.</i></p>
+| **Day** | **Date** | **Lesson** | **Description** | **Speaker** | **Timestamp** | **Level** |
+|---|---|---|---|---|---|---|
+| 1 | 2026-11-23 | [From one helper to a team of dozens](days/day-001.md) | How Claude Code sessions changed in a year: from one supervised session to dozens running for hours. | Lydia Hallie, Anthropic | [▶ 01:03](https://www.youtube.com/watch?v=vlfCjWuv4es&t=63s) | **[Medium]** |
 
 # Worthy Talks
 
@@ -100,7 +102,9 @@ the words explained simply and something to try); **Timestamp** jumps straight t
 Talks and videos that the lessons come from, each added on the day its first lesson is shared. One talk is
 broken into many separate lessons, spread across the calendar so consecutive days come from different speakers.
 
-<sub><i>Empty until its first source is shared. Filling begins on 23 November 2026.</i></sub>
+| **Number** | **Title** | **Description** | **Lessons** | **Link** |
+|---|---|---|---|---|
+| 1 | Rethinking Claude Code Best Practices — Lydia Hallie, Anthropic | How the human steps out of the loop: model steers, auto mode approves, harness and environment enforce | 1 lesson so far, from [Day 1](days/day-001.md) | [Watch](https://www.youtube.com/watch?v=vlfCjWuv4es) |
 
 # Worthy Posts and Articles
 
@@ -130,7 +134,9 @@ Repositories and tools used as sources, each added on the day it is shared.
 
 [(Back to top)](#table-of-contents)
 
-Terms are added here, in plain words, as each day introduces them.
+| **Term** | **Like I'm 5** | **First seen** |
+|---|---|---|
+| Session | One running conversation with a coding agent, with its own task and context. | [Day 1](days/day-001.md) |
 
 # How It Works
 

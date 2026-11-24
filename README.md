@@ -30,7 +30,7 @@ where the source says it, so you can go straight to the original.
 
 The magic is not in the tricks. It is in seeing how they work.
 
-There is **no end day**. Day 1 is **23 November 2026**; the log simply keeps growing. Each day is posted on
+There is **no end day**. Day 1 was **23 November 2026**; the log simply keeps growing. Each day is posted on
 **X, Bluesky, Threads and LinkedIn** under **#AIMagic** and lands here as a row in [Daily Magic](#daily-magic),
 a day note in [days/](days/) and a card in [assets/cards/](assets/cards/). Sources are collected in the
 **Worthy** tables below, the way [Machine-Learning-Goodness](https://github.com/aurimas13/Machine-Learning-Goodness) collects books, tools and repositories.

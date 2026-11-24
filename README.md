@@ -19,7 +19,7 @@
 <a href="https://twitter.com/reksas13"><img alt="X" src="https://img.shields.io/twitter/follow/reksas13?style=social"/></a>
 </p>
 
-<p align="center">⭐ <b><a href="https://github.com/aurimas13/AI-Magic/stargazers">Star to follow the catch-up</a></b></p>
+<p align="center">⭐ <b><a href="https://github.com/aurimas13/AI-Magic/stargazers">Star to follow along: the AI I missed and what's new now</a></b></p>
 
 <p align=center><b>Overview & Next Move</b></p>
 

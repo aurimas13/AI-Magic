@@ -7,7 +7,7 @@
 <p align="center"><img src="assets/logo/stripe.svg" width="360" alt="Yellow, green and red stripe of the Lithuanian flag"/></p>
 
 <p align="center">
-<a href="#daily-magic"><img alt="day" src="https://img.shields.io/badge/Day-1%20-%20no%20end-006A44?style=for-the-badge&labelColor=00402A"/></a>
+<a href="#daily-magic"><img alt="day" src="https://img.shields.io/badge/Day-2%20-%20no%20end-006A44?style=for-the-badge&labelColor=00402A"/></a>
 <a href="#how-it-works"><img alt="cadence" src="https://img.shields.io/badge/Cadence-daily%2006%3A50%20EET-C1272D?style=for-the-badge&labelColor=00402A"/></a>
 <a href="#visual-glossary"><img alt="eli5" src="https://img.shields.io/badge/Style-ELI5%20visuals-FDB913?style=for-the-badge&labelColor=00402A"/></a>
 </p>
@@ -94,6 +94,7 @@ the words explained simply and something to try); **Timestamp** jumps straight t
 | **Day** | **Date** | **Lesson** | **Description** | **Speaker** | **Timestamp** | **Level** |
 |---|---|---|---|---|---|---|
 | 1 | 2026-11-23 | [From one helper to a team of dozens](days/day-001.md) | How Claude Code sessions changed in a year: from one supervised session to dozens running for hours. | Lydia Hallie, Anthropic | [▶ 01:03](https://www.youtube.com/watch?v=vlfCjWuv4es&t=63s) | **[Medium]** |
+| 2 | 2026-11-24 | [Code got cheap. Nothing else did.](days/day-002.md) | Agents made writing code nearly free, but everything after writing it still moves at human speed, so the bottleneck moved. | Laurie Voss, Arize AI | [▶ 00:00](https://www.youtube.com/watch?v=kspZP5BgkEU&t=0s) | **[Medium]** |
 
 # Worthy Talks
 
@@ -105,6 +106,7 @@ broken into many separate lessons, spread across the calendar so consecutive day
 | **Number** | **Title** | **Description** | **Lessons** | **Link** |
 |---|---|---|---|---|
 | 1 | Rethinking Claude Code Best Practices — Lydia Hallie, Anthropic | How the human steps out of the loop: model steers, auto mode approves, harness and environment enforce | 1 lesson so far, from [Day 1](days/day-001.md) | [Watch](https://www.youtube.com/watch?v=vlfCjWuv4es) |
+| 2 | AI Writes the Code. So What's Left for Engineers? - Laurie Voss, Arize AI | The bottleneck keeps moving; what stays human is deciding what good means | 1 lesson so far, from [Day 2](days/day-002.md) | [Watch](https://www.youtube.com/watch?v=kspZP5BgkEU) |
 
 # Worthy Posts and Articles
 
@@ -136,6 +138,7 @@ Repositories and tools used as sources, each added on the day it is shared.
 
 | **Term** | **Like I'm 5** | **First seen** |
 |---|---|---|
+| Bottleneck | The slowest step in a line of steps; everything else waits for it, like one narrow door out of a busy room. | [Day 2](days/day-002.md) |
 | Session | One running conversation with a coding agent, with its own task and context. | [Day 1](days/day-001.md) |
 
 # How It Works

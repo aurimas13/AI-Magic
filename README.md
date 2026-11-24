@@ -7,9 +7,10 @@
 <p align="center"><img src="assets/logo/stripe.svg" width="360" alt="Yellow, green and red stripe of the Lithuanian flag"/></p>
 
 <p align="center">
-<a href="#daily-magic"><img alt="day" src="https://img.shields.io/badge/Day-2%20-%20no%20end-006A44?style=for-the-badge&labelColor=00402A"/></a>
+<a href="#daily-magic"><img alt="day" src="https://img.shields.io/badge/Day-2%20--%20no%20end-006A44?style=for-the-badge&labelColor=00402A"/></a>
 <a href="#how-it-works"><img alt="cadence" src="https://img.shields.io/badge/Cadence-daily%2006%3A50%20EET-C1272D?style=for-the-badge&labelColor=00402A"/></a>
 <a href="#visual-glossary"><img alt="eli5" src="https://img.shields.io/badge/Style-ELI5%20visuals-FDB913?style=for-the-badge&labelColor=00402A"/></a>
+<a href="#what-i-missed"><img alt="catch-up" src="https://img.shields.io/badge/Catch--up-Oct%202024%20--%20Dec%202025-006A44?style=for-the-badge&labelColor=00402A"/></a>
 </p>
 <p align="center">
 <a href="https://github.com/aurimas13/AI-Magic/commits/main"><img alt="last commit" src="https://img.shields.io/github/last-commit/aurimas13/AI-Magic?style=social"/></a>
@@ -17,6 +18,8 @@
 <a href="https://github.com/aurimas13/AI-Magic/fork"><img alt="forks" src="https://img.shields.io/github/forks/aurimas13/AI-Magic?style=social"/></a>
 <a href="https://twitter.com/reksas13"><img alt="X" src="https://img.shields.io/twitter/follow/reksas13?style=social"/></a>
 </p>
+
+<p align="center">⭐ <b><a href="https://github.com/aurimas13/AI-Magic/stargazers">Star to follow the catch-up</a></b></p>
 
 <p align=center><b>Overview & Next Move</b></p>
 
@@ -36,6 +39,9 @@ a day note in [days/](days/) and a card in [assets/cards/](assets/cards/). Sourc
 <summary><b>Why this repo exists</b></summary>
 
 <br>
+
+From the end of October 2024 to the end of 2025 I missed the fastest 14 months AI has had. AI Magic is also me
+catching up in public, one picture a day, and you are welcome to catch up with me.
 
 Learning in public beats learning alone, and it leaves a receipt. I am an AI engineer who came to this from
 chemistry, and I learn best when I can *see* the mechanism. So every lesson here has to survive three tests:
@@ -71,6 +77,7 @@ which ran from 12 July to 19 October 2026. The numbered resource tables and the 
 
 - [Table of Contents](#table-of-contents)
 - [Daily Magic](#daily-magic)
+- [What I Missed](#what-i-missed)
 - [Worthy Talks](#worthy-talks)
 - [Worthy Posts and Articles](#worthy-posts-and-articles)
 - [Worthy Publications](#worthy-publications)
@@ -94,7 +101,16 @@ the words explained simply and something to try); **Timestamp** jumps straight t
 | **Day** | **Date** | **Lesson** | **Description** | **Speaker** | **Timestamp** | **Level** |
 |---|---|---|---|---|---|---|
 | 1 | 2026-11-23 | [From one helper to a team of dozens](days/day-001.md) | How Claude Code sessions changed in a year: from one supervised session to dozens running for hours. | Lydia Hallie, Anthropic | [▶ 01:03](https://www.youtube.com/watch?v=vlfCjWuv4es&t=63s) | **[Medium]** |
-| 2 | 2026-11-24 | [Code got cheap. Nothing else did.](days/day-002.md) | Agents made writing code nearly free, but everything after writing it still moves at human speed, so the bottleneck moved. | Laurie Voss, Arize AI | [▶ 00:00](https://www.youtube.com/watch?v=kspZP5BgkEU&t=0s) | **[Medium]** |
+| 2 | 2026-11-24 | [Code got cheap. Nothing else did.](days/day-002.md) | Agents made writing code nearly free, but everything after writing it still moves at human speed, so the bottleneck moved. | Laurie Voss, Arize AI | [▶ 01:21](https://www.youtube.com/watch?v=kspZP5BgkEU&t=81s) | **[Medium]** |
+
+# What I Missed
+
+[(Back to top)](#table-of-contents)
+
+The 🕰️ **Catch-up** track: what happened in AI from October 2024 to December 2025, one milestone per lesson,
+each from its primary source (the paper, the launch post or the docs). A month fills in here the day it is taught.
+
+<sub><i>Empty until the first catch-up day is published. Catch-up days run every Wednesday and Saturday from 2 December 2026.</i></sub>
 
 # Worthy Talks
 

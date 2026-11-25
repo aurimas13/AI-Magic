@@ -32,7 +32,7 @@ The magic is not in the tricks. It is in seeing how they work.
 
 There is **no end day**. Day 1 was **23 November 2026**; the log simply keeps growing. Each day is posted on
 **X, Bluesky, Threads and LinkedIn** under **#AIMagic** and lands here as a row in [Daily Magic](#daily-magic),
-a day note in [days/](days/) and a card in [assets/cards/](assets/cards/). Sources are collected in the
+a day note in [days/](days/), and a card in the [Gallery](GALLERY.md). Sources are collected in the
 **Worthy** tables below, the way [Machine-Learning-Goodness](https://github.com/aurimas13/Machine-Learning-Goodness) collects books, tools and repositories.
 
 <details>
@@ -56,7 +56,7 @@ those fails, the lesson is not ready.
 <br>
 
 - **A curated, timestamped reading and watching list** of current AI, growing day by day in the Worthy tables. Steal it; that is what MIT is for.
-- **Explain-like-I'm-5 visuals** you can reuse in a talk, a team wiki or a lesson, one per day, in [assets/cards/](assets/cards/).
+- **Explain-like-I'm-5 visuals** you can reuse in a talk, a team wiki or a lesson, one per day, browsable in the [Gallery](GALLERY.md) and downloadable from [assets/cards/](assets/cards/).
 - **A visual glossary** of the vocabulary of modern AI engineering, in plain words, in [Visual Glossary](#visual-glossary).
 - **A working template** if you want to run your own open-ended learning log.
 
@@ -77,6 +77,7 @@ which ran from 12 July to 19 October 2026. The numbered resource tables and the 
 
 - [Table of Contents](#table-of-contents)
 - [Daily Magic](#daily-magic)
+- [Gallery](#gallery)
 - [What I Missed](#what-i-missed)
 - [Worthy Talks](#worthy-talks)
 - [Worthy Posts and Articles](#worthy-posts-and-articles)
@@ -103,6 +104,23 @@ the words explained simply and something to try); **Timestamp** jumps straight t
 | 1 | 2026-11-23 | [From one helper to a team of dozens](days/day-001.md) | How Claude Code sessions changed in a year: from one supervised session to dozens running for hours. | Lydia Hallie, Anthropic | [▶ 01:03](https://www.youtube.com/watch?v=vlfCjWuv4es&t=63s) | **[Medium]** |
 | 2 | 2026-11-24 | [Code got cheap. Nothing else did.](days/day-002.md) | Agents made writing code nearly free, but everything after writing it still moves at human speed, so the bottleneck moved. | Laurie Voss, Arize AI | [▶ 01:21](https://www.youtube.com/watch?v=kspZP5BgkEU&t=81s) | **[Medium]** |
 | 3 | 2026-11-25 | [Re-run the spec, get worse code](days/day-003.md) | Specs-to-code means editing only the spec and regenerating; Matt Pocock found each run produced worse code: software entropy. | Matt Pocock, AIHero | [▶ 02:03](https://www.youtube.com/watch?v=v4F1gFy-hqg&t=123s) | **[Medium]** |
+
+# Gallery
+
+[(Back to top)](#table-of-contents)
+
+The latest cards, newest first: the picture posted that day on every platform, with its idea in one line.
+Click a card for its day note.
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center"><a href="days/day-003.md"><img src="assets/cards/day-003.png" width="100%" alt="Day 3: Re-run the spec, get worse code"></a><br><sub><b>Day 3 · <a href="days/day-003.md">Re-run the spec, get worse code</a></b><br>Like photocopying a photocopy: each copy looks a bit worse, until you can't read it at all.</sub></td>
+<td width="33%" valign="top" align="center"><a href="days/day-002.md"><img src="assets/cards/day-002.png" width="100%" alt="Day 2: Code got cheap. Nothing else did."></a><br><sub><b>Day 2 · <a href="days/day-002.md">Code got cheap. Nothing else did.</a></b><br>If a toy factory suddenly makes toys in a second, the toys now wait at the wrapping table instead.</sub></td>
+<td width="33%" valign="top" align="center"><a href="days/day-001.md"><img src="assets/cards/day-001.png" width="100%" alt="Day 1: From one helper to a team of dozens"></a><br><sub><b>Day 1 · <a href="days/day-001.md">From one helper to a team of dozens</a></b><br>You used to hold the bike seat every second. Now the kids ride alone and you watch the whole playground.</sub></td>
+</tr>
+</table>
+
+<p align="center"><b><a href="GALLERY.md">See every card in the Gallery →</a></b></p>
 
 # What I Missed
 
@@ -167,7 +185,7 @@ Repositories and tools used as sources, each added on the day it is shared.
 
 1. **The source** - a video, post, article, paper or suggestion, chosen the day before. When none is shared, the next lesson from the prepared queue runs, so the streak never breaks.
 2. **The lesson** - one idea, not a summary. If a talk has twelve ideas, it becomes twelve days.
-3. **The picture** - one card per day, built from a few fixed shapes (a flow, a before-and-after, a stack, a loop, a grid) so the eye learns the language.
+3. **The picture** - one card per day, built from a few fixed shapes (a flow, a before-and-after, a stack, a loop, a grid) so the eye learns the language. Every card is kept in the [Gallery](GALLERY.md).
 4. **The timestamp** - every lesson links to the minute where it is said. Captions are auto-generated, so names and terms that could not be verified are marked as unverified instead of guessed.
 5. **The post** - the same lesson goes out on X, Bluesky, Threads and LinkedIn at 06:50 EET, with the card.
 
@@ -204,7 +222,8 @@ Nothing goes out until I have done the final edit, review and agree to publish i
 
 [(Back to top)](#table-of-contents)
 
-- [assets/cards](assets/cards/) - every published day card (16:9).
+- [GALLERY.md](GALLERY.md) - every published card with its one-line idea, newest first.
+- [assets/cards](assets/cards/) - every published day card as a 1600x900 PNG.
 - [assets/logo](assets/logo/) - the logo, as PNG and SVG.
 - [days](days/) - one note per day.
 

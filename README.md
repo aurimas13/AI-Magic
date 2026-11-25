@@ -7,7 +7,7 @@
 <p align="center"><img src="assets/logo/stripe.svg" width="360" alt="Yellow, green and red stripe of the Lithuanian flag"/></p>
 
 <p align="center">
-<a href="#daily-magic"><img alt="day" src="https://img.shields.io/badge/Day-2%20--%20no%20end-006A44?style=for-the-badge&labelColor=00402A"/></a>
+<a href="#daily-magic"><img alt="day" src="https://img.shields.io/badge/Day-3%20--%20no%20end-006A44?style=for-the-badge&labelColor=00402A"/></a>
 <a href="#how-it-works"><img alt="cadence" src="https://img.shields.io/badge/Cadence-daily%2006%3A50%20EET-C1272D?style=for-the-badge&labelColor=00402A"/></a>
 <a href="#visual-glossary"><img alt="eli5" src="https://img.shields.io/badge/Style-ELI5%20visuals-FDB913?style=for-the-badge&labelColor=00402A"/></a>
 <a href="#what-i-missed"><img alt="catch-up" src="https://img.shields.io/badge/Catch--up-Oct%202024%20--%20Dec%202025-006A44?style=for-the-badge&labelColor=00402A"/></a>
@@ -102,6 +102,7 @@ the words explained simply and something to try); **Timestamp** jumps straight t
 |---|---|---|---|---|---|---|
 | 1 | 2026-11-23 | [From one helper to a team of dozens](days/day-001.md) | How Claude Code sessions changed in a year: from one supervised session to dozens running for hours. | Lydia Hallie, Anthropic | [▶ 01:03](https://www.youtube.com/watch?v=vlfCjWuv4es&t=63s) | **[Medium]** |
 | 2 | 2026-11-24 | [Code got cheap. Nothing else did.](days/day-002.md) | Agents made writing code nearly free, but everything after writing it still moves at human speed, so the bottleneck moved. | Laurie Voss, Arize AI | [▶ 01:21](https://www.youtube.com/watch?v=kspZP5BgkEU&t=81s) | **[Medium]** |
+| 3 | 2026-11-25 | [Re-run the spec, get worse code](days/day-003.md) | Specs-to-code means editing only the spec and regenerating; Matt Pocock found each run produced worse code: software entropy. | Matt Pocock, AIHero | [▶ 02:03](https://www.youtube.com/watch?v=v4F1gFy-hqg&t=123s) | **[Medium]** |
 
 # What I Missed
 
@@ -123,6 +124,7 @@ broken into many separate lessons, spread across the calendar so consecutive day
 |---|---|---|---|---|
 | 1 | Rethinking Claude Code Best Practices — Lydia Hallie, Anthropic | How the human steps out of the loop: model steers, auto mode approves, harness and environment enforce | 1 lesson so far, from [Day 1](days/day-001.md) | [Watch](https://www.youtube.com/watch?v=vlfCjWuv4es) |
 | 2 | AI Writes the Code. So What's Left for Engineers? - Laurie Voss, Arize AI | The bottleneck keeps moving; what stays human is deciding what good means | 1 lesson so far, from [Day 2](days/day-002.md) | [Watch](https://www.youtube.com/watch?v=kspZP5BgkEU) |
+| 3 | "Software Fundamentals Matter More Than Ever" — Matt Pocock | Old software books, new agent problems: shared design, shared language, deep modules | 1 lesson so far, from [Day 3](days/day-003.md) | [Watch](https://www.youtube.com/watch?v=v4F1gFy-hqg) |
 
 # Worthy Posts and Articles
 
@@ -156,6 +158,8 @@ Repositories and tools used as sources, each added on the day it is shared.
 |---|---|---|
 | Bottleneck | The slowest step in a line of steps; everything else waits for it, like one narrow door out of a busy room. | [Day 2](days/day-002.md) |
 | Session | One running conversation with a coding agent, with its own task and context. | [Day 1](days/day-001.md) |
+| Software entropy | The natural slide of a codebase into mess when every change ignores the bigger design. | [Day 3](days/day-003.md) |
+| Vibe coding | Letting AI write code you never read or understand. | [Day 3](days/day-003.md) |
 
 # How It Works
 

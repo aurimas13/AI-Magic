@@ -109,14 +109,14 @@ the words explained simply and something to try); **Timestamp** jumps straight t
 
 [(Back to top)](#table-of-contents)
 
-The latest cards, newest first: the picture posted that day on every platform, with its idea in one line.
+The three latest cards, in day order: the picture posted that day on every platform, with its idea in one line.
 Click a card for its day note.
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center"><a href="days/day-003.md"><img src="assets/cards/day-003.png" width="100%" alt="Day 3: Re-run the spec, get worse code"></a><br><sub><b>Day 3 · <a href="days/day-003.md">Re-run the spec, get worse code</a></b><br>Like photocopying a photocopy: each copy looks a bit worse, until you can't read it at all.</sub></td>
-<td width="33%" valign="top" align="center"><a href="days/day-002.md"><img src="assets/cards/day-002.png" width="100%" alt="Day 2: Code got cheap. Nothing else did."></a><br><sub><b>Day 2 · <a href="days/day-002.md">Code got cheap. Nothing else did.</a></b><br>If a toy factory suddenly makes toys in a second, the toys now wait at the wrapping table instead.</sub></td>
 <td width="33%" valign="top" align="center"><a href="days/day-001.md"><img src="assets/cards/day-001.png" width="100%" alt="Day 1: From one helper to a team of dozens"></a><br><sub><b>Day 1 · <a href="days/day-001.md">From one helper to a team of dozens</a></b><br>You used to hold the bike seat every second. Now the kids ride alone and you watch the whole playground.</sub></td>
+<td width="33%" valign="top" align="center"><a href="days/day-002.md"><img src="assets/cards/day-002.png" width="100%" alt="Day 2: Code got cheap. Nothing else did."></a><br><sub><b>Day 2 · <a href="days/day-002.md">Code got cheap. Nothing else did.</a></b><br>If a toy factory suddenly makes toys in a second, the toys now wait at the wrapping table instead.</sub></td>
+<td width="33%" valign="top" align="center"><a href="days/day-003.md"><img src="assets/cards/day-003.png" width="100%" alt="Day 3: Re-run the spec, get worse code"></a><br><sub><b>Day 3 · <a href="days/day-003.md">Re-run the spec, get worse code</a></b><br>Like photocopying a photocopy: each copy looks a bit worse, until you can't read it at all.</sub></td>
 </tr>
 </table>
 

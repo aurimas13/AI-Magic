@@ -7,7 +7,7 @@
 <p align="center"><img src="assets/logo/stripe.svg" width="360" alt="Yellow, green and red stripe of the Lithuanian flag"/></p>
 
 <p align="center">
-<a href="#daily-magic"><img alt="day" src="https://img.shields.io/badge/Day-3%20--%20no%20end-006A44?style=for-the-badge&labelColor=00402A"/></a>
+<a href="#daily-magic"><img alt="day" src="https://img.shields.io/badge/Day-4%20--%20no%20end-006A44?style=for-the-badge&labelColor=00402A"/></a>
 <a href="#how-it-works"><img alt="cadence" src="https://img.shields.io/badge/Cadence-daily%2006%3A50%20EET-C1272D?style=for-the-badge&labelColor=00402A"/></a>
 <a href="#visual-glossary"><img alt="eli5" src="https://img.shields.io/badge/Style-ELI5%20visuals-FDB913?style=for-the-badge&labelColor=00402A"/></a>
 <a href="#what-i-missed"><img alt="catch-up" src="https://img.shields.io/badge/Catch--up-Oct%202024%20--%20Dec%202025-006A44?style=for-the-badge&labelColor=00402A"/></a>
@@ -104,6 +104,7 @@ the words explained simply and something to try); **Timestamp** jumps straight t
 | 1 | 2026-11-23 | [From one helper to a team of dozens](days/day-001.md) | How Claude Code sessions changed in a year: from one supervised session to dozens running for hours. | Lydia Hallie, Anthropic | [▶ 01:03](https://www.youtube.com/watch?v=vlfCjWuv4es&t=63s) | **[Medium]** |
 | 2 | 2026-11-24 | [Code got cheap. Nothing else did.](days/day-002.md) | Agents made writing code nearly free, but everything after writing it still moves at human speed, so the bottleneck moved. | Laurie Voss, Arize AI | [▶ 01:21](https://www.youtube.com/watch?v=kspZP5BgkEU&t=81s) | **[Medium]** |
 | 3 | 2026-11-25 | [Re-run the spec, get worse code](days/day-003.md) | Specs-to-code means editing only the spec and regenerating; Matt Pocock found each run produced worse code: software entropy. | Matt Pocock, AIHero | [▶ 02:03](https://www.youtube.com/watch?v=v4F1gFy-hqg&t=123s) | **[Medium]** |
+| 4 | 2026-11-26 | [Anyone can be a coding machine](days/day-004.md) | Agents let anyone ship at huge volume; the engineer's job becomes keeping quality up while output soars. | Lauren Tan, SpaceXSI | [▶ 00:55](https://www.youtube.com/watch?v=O_zcc6Xl12g&t=55s) | **[Medium]** |
 
 # Gallery
 
@@ -114,9 +115,9 @@ Click a card for its day note.
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center"><a href="days/day-001.md"><img src="assets/cards/day-001.png" width="100%" alt="Day 1: From one helper to a team of dozens"></a><br><sub><b>Day 1 · <a href="days/day-001.md">From one helper to a team of dozens</a></b><br>You used to hold the bike seat every second. Now the kids ride alone and you watch the whole playground.</sub></td>
 <td width="33%" valign="top" align="center"><a href="days/day-002.md"><img src="assets/cards/day-002.png" width="100%" alt="Day 2: Code got cheap. Nothing else did."></a><br><sub><b>Day 2 · <a href="days/day-002.md">Code got cheap. Nothing else did.</a></b><br>If a toy factory suddenly makes toys in a second, the toys now wait at the wrapping table instead.</sub></td>
 <td width="33%" valign="top" align="center"><a href="days/day-003.md"><img src="assets/cards/day-003.png" width="100%" alt="Day 3: Re-run the spec, get worse code"></a><br><sub><b>Day 3 · <a href="days/day-003.md">Re-run the spec, get worse code</a></b><br>Like photocopying a photocopy: each copy looks a bit worse, until you can't read it at all.</sub></td>
+<td width="33%" valign="top" align="center"><a href="days/day-004.md"><img src="assets/cards/day-004.png" width="100%" alt="Day 4: Anyone can be a coding machine"></a><br><sub><b>Day 4 · <a href="days/day-004.md">Anyone can be a coding machine</a></b><br>Like a baker with a hundred helper elves: more cakes is easy, keeping every cake tasty is the real job.</sub></td>
 </tr>
 </table>
 
@@ -143,6 +144,7 @@ broken into many separate lessons, spread across the calendar so consecutive day
 | 1 | Rethinking Claude Code Best Practices — Lydia Hallie, Anthropic | How the human steps out of the loop: model steers, auto mode approves, harness and environment enforce | 1 lesson so far, from [Day 1](days/day-001.md) | [Watch](https://www.youtube.com/watch?v=vlfCjWuv4es) |
 | 2 | AI Writes the Code. So What's Left for Engineers? - Laurie Voss, Arize AI | The bottleneck keeps moving; what stays human is deciding what good means | 1 lesson so far, from [Day 2](days/day-002.md) | [Watch](https://www.youtube.com/watch?v=kspZP5BgkEU) |
 | 3 | "Software Fundamentals Matter More Than Ever" — Matt Pocock | Old software books, new agent problems: shared design, shared language, deep modules | 1 lesson so far, from [Day 3](days/day-003.md) | [Watch](https://www.youtube.com/watch?v=v4F1gFy-hqg) |
+| 4 | All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI | Turn every agent correction into a deterministic check so the codebase teaches good habits | 1 lesson so far, from [Day 4](days/day-004.md) | [Watch](https://www.youtube.com/watch?v=O_zcc6Xl12g) |
 
 # Worthy Posts and Articles
 
@@ -175,6 +177,8 @@ Repositories and tools used as sources, each added on the day it is shared.
 | **Term** | **Like I'm 5** | **First seen** |
 |---|---|---|
 | Bottleneck | The slowest step in a line of steps; everything else waits for it, like one narrow door out of a busy room. | [Day 2](days/day-002.md) |
+| Pull request (PR) | A proposed change to code that others check before it joins the main project. | [Day 4](days/day-004.md) |
+| Revert | Undoing a change after it shipped because it broke something. | [Day 4](days/day-004.md) |
 | Session | One running conversation with a coding agent, with its own task and context. | [Day 1](days/day-001.md) |
 | Software entropy | The natural slide of a codebase into mess when every change ignores the bigger design. | [Day 3](days/day-003.md) |
 | Vibe coding | Letting AI write code you never read or understand. | [Day 3](days/day-003.md) |

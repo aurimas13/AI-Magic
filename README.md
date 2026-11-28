@@ -7,7 +7,7 @@
 <p align="center"><img src="assets/logo/stripe.svg" width="360" alt="Yellow, green and red stripe of the Lithuanian flag"/></p>
 
 <p align="center">
-<a href="#daily-magic"><img alt="day" src="https://img.shields.io/badge/Day-5%20--%20no%20end-006A44?style=for-the-badge&labelColor=00402A"/></a>
+<a href="#daily-magic"><img alt="day" src="https://img.shields.io/badge/Day-6%20--%20no%20end-006A44?style=for-the-badge&labelColor=00402A"/></a>
 <a href="#how-it-works"><img alt="cadence" src="https://img.shields.io/badge/Cadence-daily%2006%3A50%20EET-C1272D?style=for-the-badge&labelColor=00402A"/></a>
 <a href="#visual-glossary"><img alt="eli5" src="https://img.shields.io/badge/Style-ELI5%20visuals-FDB913?style=for-the-badge&labelColor=00402A"/></a>
 <a href="#what-i-missed"><img alt="catch-up" src="https://img.shields.io/badge/Catch--up-Oct%202024%20--%20Dec%202025-006A44?style=for-the-badge&labelColor=00402A"/></a>
@@ -106,6 +106,7 @@ the words explained simply and something to try); **Timestamp** jumps straight t
 | 3 | 2026-11-25 | [Re-run the spec, get worse code](days/day-003.md) | Specs-to-code means editing only the spec and regenerating; Matt Pocock found each run produced worse code: software entropy. | Matt Pocock, AIHero | [▶ 02:03](https://www.youtube.com/watch?v=v4F1gFy-hqg&t=123s) | **[Medium]** |
 | 4 | 2026-11-26 | [Anyone can be a coding machine](days/day-004.md) | Agents let anyone ship at huge volume; the engineer's job becomes keeping quality up while output soars. | Lauren Tan, SpaceXSI | [▶ 00:55](https://www.youtube.com/watch?v=O_zcc6Xl12g&t=55s) | **[Medium]** |
 | 5 | 2026-11-27 | [Swap the builder, keep the pipeline](days/day-005.md) | Most of a software factory is decades-old engineering; making it agentic means replacing the step where someone builds the thing. | Dex Horthy, Factory | [▶ 02:32](https://www.youtube.com/watch?v=-NFMsM2y0Vk&t=152s) | **[Medium]** |
+| 6 | 2026-11-28 | [Build the workshop first](days/day-006.md) | Armin Ronacher argues for building the atelier, or workshop, before the software factory: tools for ambitious, high-quality software. | Armin Ronacher, Earendil | [▶ 00:00](https://www.youtube.com/watch?v=JNexz3Tbiu8&t=0s) | **[Medium]** |
 
 # Gallery
 
@@ -116,9 +117,9 @@ Click a card for its day note.
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center"><a href="days/day-003.md"><img src="assets/cards/day-003.png" width="100%" alt="Day 3: Re-run the spec, get worse code"></a><br><sub><b>Day 3 · <a href="days/day-003.md">Re-run the spec, get worse code</a></b><br>Like photocopying a photocopy: each copy looks a bit worse, until you can't read it at all.</sub></td>
 <td width="33%" valign="top" align="center"><a href="days/day-004.md"><img src="assets/cards/day-004.png" width="100%" alt="Day 4: Anyone can be a coding machine"></a><br><sub><b>Day 4 · <a href="days/day-004.md">Anyone can be a coding machine</a></b><br>Like a baker with a hundred helper elves: more cakes is easy, keeping every cake tasty is the real job.</sub></td>
 <td width="33%" valign="top" align="center"><a href="days/day-005.md"><img src="assets/cards/day-005.png" width="100%" alt="Day 5: Swap the builder, keep the pipeline"></a><br><sub><b>Day 5 · <a href="days/day-005.md">Swap the builder, keep the pipeline</a></b><br>Like a bakery that gets a super-fast mixer: the recipe, the ovens and the taste tests all stay the same.</sub></td>
+<td width="33%" valign="top" align="center"><a href="days/day-006.md"><img src="assets/cards/day-006.png" width="100%" alt="Day 6: Build the workshop first"></a><br><sub><b>Day 6 · <a href="days/day-006.md">Build the workshop first</a></b><br>Better power tools don't make an artist paint more pictures; they let them make braver, finer ones.</sub></td>
 </tr>
 </table>
 
@@ -147,6 +148,7 @@ broken into many separate lessons, spread across the calendar so consecutive day
 | 3 | "Software Fundamentals Matter More Than Ever" — Matt Pocock | Old software books, new agent problems: shared design, shared language, deep modules | 1 lesson so far, from [Day 3](days/day-003.md) | [Watch](https://www.youtube.com/watch?v=v4F1gFy-hqg) |
 | 4 | All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI | Turn every agent correction into a deterministic check so the codebase teaches good habits | 1 lesson so far, from [Day 4](days/day-004.md) | [Watch](https://www.youtube.com/watch?v=O_zcc6Xl12g) |
 | 5 | 12 Rules for a Software Factory That Doesn't Ship Slop — Dex Horthy, Factory | Forward and back pressure, planning by expected pain, and the anti-slop manifesto | 1 lesson so far, from [Day 5](days/day-005.md) | [Watch](https://www.youtube.com/watch?v=-NFMsM2y0Vk) |
+| 6 | Build the Workshop Before the Software Factory — Armin Ronacher, Earendil | Use agents for more ambitious, higher-quality software, paced by human attention | 1 lesson so far, from [Day 6](days/day-006.md) | [Watch](https://www.youtube.com/watch?v=JNexz3Tbiu8) |
 
 # Worthy Posts and Articles
 
@@ -178,6 +180,7 @@ Repositories and tools used as sources, each added on the day it is shared.
 
 | **Term** | **Like I'm 5** | **First seen** |
 |---|---|---|
+| Atelier | An artist's workshop: the room where the tools live and careful work gets made. | [Day 6](days/day-006.md) |
 | Bottleneck | The slowest step in a line of steps; everything else waits for it, like one narrow door out of a busy room. | [Day 2](days/day-002.md) |
 | Canary release | Showing a change to a few users first, like testing the bath water with one toe. | [Day 5](days/day-005.md) |
 | CI | Continuous integration: robots that run the checks every time someone pushes code. | [Day 5](days/day-005.md) |
@@ -185,6 +188,7 @@ Repositories and tools used as sources, each added on the day it is shared.
 | Revert | Undoing a change after it shipped because it broke something. | [Day 4](days/day-004.md) |
 | Session | One running conversation with a coding agent, with its own task and context. | [Day 1](days/day-001.md) |
 | Software entropy | The natural slide of a codebase into mess when every change ignores the bigger design. | [Day 3](days/day-003.md) |
+| Software factory | A setup where agents turn a steady stream of tasks into shipped code with little human help. | [Day 6](days/day-006.md) |
 | Vibe coding | Letting AI write code you never read or understand. | [Day 3](days/day-003.md) |
 
 # How It Works

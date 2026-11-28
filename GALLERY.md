@@ -8,7 +8,7 @@ Threads and LinkedIn under <b>#AIMagic</b>. Each card opens its day note, with t
 <p align="center"><a href="README.md">← Back to the README</a> · <a href="README.md#daily-magic">Daily Magic table</a> · <a href="assets/cards/">All card files</a></p>
 
 <details open>
-<summary><b>November 2026</b> · 5 cards</summary>
+<summary><b>November 2026</b> · 6 cards</summary>
 
 <table>
 <tr>
@@ -19,7 +19,7 @@ Threads and LinkedIn under <b>#AIMagic</b>. Each card opens its day note, with t
 <tr>
 <td width="33%" valign="top" align="center"><a href="days/day-004.md"><img src="assets/cards/day-004.png" width="100%" alt="Day 4: Anyone can be a coding machine"></a><br><sub><b>Day 4 · <a href="days/day-004.md">Anyone can be a coding machine</a></b><br>Like a baker with a hundred helper elves: more cakes is easy, keeping every cake tasty is the real job.</sub></td>
 <td width="33%" valign="top" align="center"><a href="days/day-005.md"><img src="assets/cards/day-005.png" width="100%" alt="Day 5: Swap the builder, keep the pipeline"></a><br><sub><b>Day 5 · <a href="days/day-005.md">Swap the builder, keep the pipeline</a></b><br>Like a bakery that gets a super-fast mixer: the recipe, the ovens and the taste tests all stay the same.</sub></td>
-<td width="33%"></td>
+<td width="33%" valign="top" align="center"><a href="days/day-006.md"><img src="assets/cards/day-006.png" width="100%" alt="Day 6: Build the workshop first"></a><br><sub><b>Day 6 · <a href="days/day-006.md">Build the workshop first</a></b><br>Better power tools don't make an artist paint more pictures; they let them make braver, finer ones.</sub></td>
 </tr>
 </table>
 
